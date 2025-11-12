@@ -31,29 +31,29 @@ Este projeto consolida vários tópicos centrais da estatística e da ciência d
 
 ### 🔹 Amostra x População
 - **População:** conjunto total de elementos sobre o qual queremos tirar conclusões.  
-- **Amostra:** subconjunto representativo da população, utilizado para inferência estatística:contentReference[oaicite:1]{index=1}.  
+- **Amostra:** subconjunto representativo da população, utilizado para inferência estatística.
 
 ### 🔹 Teoria da Probabilidade e Distribuições
 A probabilidade mede o grau de incerteza de eventos e é base para todos os modelos estatísticos.  
-As distribuições de probabilidade usadas incluem:contentReference[oaicite:2]{index=2}:
+As distribuições de probabilidade usadas incluem:
 - **Normal (Gaussiana):** fenômenos contínuos e simétricos.  
 - **Binomial:** eventos com dois resultados (sucesso/fracasso).  
 - **Poisson:** contagem de ocorrências em um intervalo fixo.  
 - **Exponencial:** tempo entre eventos sucessivos.  
 
 ### 🔹 Regressão Linear Múltipla
-Utilizada para entender o impacto simultâneo de múltiplas variáveis independentes sobre uma variável dependente contínua — por exemplo, como tamanho, localização e preço influenciam o valor de uma casa:contentReference[oaicite:3]{index=3}.
+Utilizada para entender o impacto simultâneo de múltiplas variáveis independentes sobre uma variável dependente contínua — por exemplo, como tamanho, localização e preço influenciam o valor de uma casa.
 
 ### 🔹 Regressão Logística
 Técnica usada para prever a **probabilidade de ocorrência de um evento binário**, como “cancelou” ou “não cancelou”.  
-O modelo gera probabilidades entre 0 e 1 e é amplamente aplicado em negócios, marketing e análise de risco:contentReference[oaicite:4]{index=4}.
+O modelo gera probabilidades entre 0 e 1 e é amplamente aplicado em negócios, marketing e análise de risco.
 
 ### 🔹 Biblioteca Statsmodels
 Biblioteca estatística avançada usada para inferência e análise de modelos lineares e logísticos.  
 Diferente do Scikit-learn (focado em previsão), o Statsmodels oferece **interpretação estatística completa**, incluindo:
 - p-valores e intervalos de confiança;  
 - análise de resíduos;  
-- sumários detalhados do modelo:contentReference[oaicite:5]{index=5}.  
+- sumários detalhados do modelo;
 
 ---
 
