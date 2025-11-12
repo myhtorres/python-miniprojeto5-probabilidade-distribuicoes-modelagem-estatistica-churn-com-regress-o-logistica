@@ -10,7 +10,7 @@ O objetivo é aplicar conceitos fundamentais de **probabilidade, inferência est
 O **churn** representa a taxa de cancelamento ou perda de clientes em um determinado período.  
 É um dos principais indicadores de **retenção, satisfação e fidelização** de clientes.  
 
-Neste projeto, analisamos dados de uma empresa fictícia — **Connecta Telecom** — com o objetivo de **entender os fatores que influenciam o cancelamento** e propor ações baseadas em evidências para reduzir essa taxa:contentReference[oaicite:0]{index=0}.
+Neste projeto, analisamos dados de uma empresa fictícia — **Connecta Telecom** — com o objetivo de **entender os fatores que influenciam o cancelamento** e propor ações baseadas em evidências para reduzir essa taxa.
 
 ---
 
